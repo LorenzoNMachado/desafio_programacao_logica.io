@@ -1,1 +1,0 @@
-# desafio_programacao_logica.io
