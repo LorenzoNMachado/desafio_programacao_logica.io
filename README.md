@@ -1,6 +1,6 @@
 Transformador de Lógica de Primeira Ordem (FOL)
 
-[Acessar a Ferramenta Online](https://lorenzonmachado.github.io/desafio_programacao_logica.io/)**
+[Acessar a Ferramenta Online](https://lorenzonmachado.github.io/desafio_programacao_logica.io/)
 
 Uma ferramenta web para converter fórmulas de Lógica de Primeira Ordem (FOL) em suas formas normais, passo a passo, a partir de uma entrada em LaTeX.
 
